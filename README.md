@@ -45,12 +45,15 @@ A simple endless runner game built with Python and Pygame.
     sound/
     ```
 ## Screenshots
-Game screenshot
-<img src="Ninja_runner/screenshot/screenshot.png" alt="Ninja Runner" width=600>
+<figure>
+    <img src="Ninja_runner/screenshot/screenshot.png" alt="Ninja Runner" width=600 cite>
+    <figcaption>Game screenshot</figcaption>
+</figure>
 
-Game over screenshot
-<img src="Ninja_runner/screenshot/over.png" alt="Game over" width=600>
-
+<figure>
+    <img src="Ninja_runner/screenshot/screenshot.png" alt="Ninja Runner" width=600 cite>
+    <figcaption>Game over screenshot</figcaption>
+</figure>
 ## Running the Game
 
 Run the following command in your terminal:

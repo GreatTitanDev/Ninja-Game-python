@@ -53,5 +53,8 @@ Run the following command in your terminal:
 python main.py
 ```
 
+**Feel free to use and modify the code.**
+
+
 **Developer**: Nimona Engida.
 

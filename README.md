@@ -44,6 +44,12 @@ A simple endless runner game built with Python and Pygame.
         player/
     sound/
     ```
+## Screenshots
+Game screenshot
+<img src="Ninja_runner/screenshot/screenshot.png" alt="Ninja Runner" width=600>
+
+Game over screenshot
+<img src="Ninja_runner/screenshot/over.png" alt="Game over" width=600>
 
 ## Running the Game
 

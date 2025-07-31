@@ -55,10 +55,20 @@ A simple endless runner game built with Python and Pygame.
     <figcaption>Game over screenshot</figcaption>
 </figure>
 
+## Installing the game
+First clone the repo from github.
+
+```sh
+git clone https://github.com/Ninja-Game-python.git
+```
 
 ## Running the Game
 
 Run the following command in your terminal:
+
+```sh
+cd Ninja-Game-pyhton
+```
 
 ```sh
 python main.py

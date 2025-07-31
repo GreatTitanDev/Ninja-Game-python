@@ -66,6 +66,7 @@ python main.py
 
 **Feel free to use and modify the code.**
 
+## Developer
 
 **Developer**: Nimona Engida.
 

@@ -51,9 +51,11 @@ A simple endless runner game built with Python and Pygame.
 </figure>
 
 <figure>
-    <img src="Ninja_runner/screenshot/screenshot.png" alt="Ninja Runner" width=600 cite>
+    <img src="Ninja_runner/screenshot/over.png" alt="Ninja Runner" width=600 cite>
     <figcaption>Game over screenshot</figcaption>
 </figure>
+
+
 ## Running the Game
 
 Run the following command in your terminal:
